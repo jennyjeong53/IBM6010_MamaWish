@@ -3,6 +3,7 @@ title: "MamaWish Website Analytics Report"
 author: "Yujin Jeong"
 format: html
 editor: visual
+output-file: index.html
 ---
 
 # Introduction
@@ -64,3 +65,7 @@ Based on the initial analytics results, several opportunities exist to improve w
 The MamaWish website successfully implemented Google Analytics, Google Search Console, BigQuery, and Looker Studio to track website performance.
 
 Initial results show that blog content is attracting the most engagement, particularly practical pregnancy-related resources. As more content is published and traffic increases, additional analysis can be conducted to better understand user behavior and content performance.
+
+# Link to Website
+
+Click Here: <https://sites.google.com/view/mamawish/home>
